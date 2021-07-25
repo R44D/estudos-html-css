@@ -1,10 +1,10 @@
-# estudos-html-css 
+# estudos-html-css-React.js 
 
 ## Descrição : 
 
 <p>aprender e desenvolver minhas habilidades com html ,css e js construindo um site para o meu portfólio  <p> 
 
-### futuras adição no projeto 
-- [ ] Colocar informações para as pessoas entrarem em  contato (insta , tt , whats )
-- [ ] colocar animações 
-
+### Lista de afazeres no projeto  
+-[] Fazer a prototipagem no figma 14/08
+-[] Criar todos os componentes  e estilizar 16/08 até 16/09
+-[] criar animação  
